@@ -1,6 +1,7 @@
 # Doubling simulations
 
-This is a toy example to try to understand the optimal strategy for doubling in Backgammon. We use a simplified game model where you just flip a coin on every turn and the winner is the one with the most flips in their favor.
+This is a toy example to try to understand the optimal strategy for doubling in Backgammon. We use a simplified game model where you just flip a coin on every turn and the winner is the one with the most flips in their favor. The optimal solution is computed with memoized-recursive style dynamic programming.
+
 
 ## Results
 
