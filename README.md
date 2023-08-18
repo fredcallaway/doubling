@@ -4,7 +4,7 @@ This is a toy example to try to understand the optimal strategy for doubling in 
 
 ## Results
 
-This is the mininum advantage you need (number of flips ahead) for it to be worth doubling, as a function of the number of flips left. An interesting thing here is that the threshold is sometimes one flip higher when its your turn---I think this is because by doubling you're giving up an advantage you have over your opponent. When either player can double (before anyone has doubled), there's no such advantage.
+This is the mininum advantage you need (number of flips ahead) for it to be worth doubling, as a function of the number of flips left. An interesting thing here is that the threshold is sometimes one flip higher when its your turn—I think this is because by doubling you're giving up an advantage you have over your opponent. When either player can double (before anyone has doubled), there's no such advantage.
 
 <img src="https://github.com/fredcallaway/doubling/blob/master/score_threshold.png" width="500">
 
